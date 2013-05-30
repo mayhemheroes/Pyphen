@@ -1,0 +1,23 @@
+name: Pyphen
+description: Hyphenation in pure Python
+license: LGPL / GPL / MPL
+public: true
+url: http://www.pyphen.org/
+
+project (git):
+  url: git://github.com/Kozea/Pyphen.git
+  path: pyphen
+
+vcs (git):
+  url: git://github.com/Kozea/Pyphen.git
+  path: /var/db/git/pyphen.git
+
+code browser (github):
+  project name: Kozea/Pyphen
+
+bug tracker (github):
+  project name: Kozea/Pyphen
+
+continuous integration (jenkins):
+  base url: http://jenkins.kozea.org/
+  project name: Pyphen

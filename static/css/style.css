@@ -1,0 +1,72 @@
+@import url(http://fonts.googleapis.com/css?family=Droid+Sans+Mono|EB+Garamond);
+
+html {
+  background: white;
+  color: rgba(30, 45, 30, 0.9);
+  font-family: 'EB Garamond', serif;
+  font-size: 14pt;
+}
+
+body {
+  background: rgba(30, 45, 30, 0.01);
+  margin: auto;
+  max-width: 900px;
+  padding: 1em 2em;
+}
+
+h1 {
+  font-size: 6em;
+  font-weight: 400;
+  margin: 0.5em 0 1em 0;
+  text-align: center;
+  text-transform: lowercase;
+}
+
+h1::before, h1::after {
+  content: '~';
+  opacity: 0.05;
+  padding: 0.25em;
+}
+
+h2 {
+  font-size: 2em;
+  font-weight: 400;
+  margin: 1.5em 0 0.5em 0;
+}
+
+a {
+  color: #cb4b16;
+}
+
+pre, samp {
+  background: rgba(30, 45, 30, 0.02);
+  border-radius: 0.3em;
+  font-family: 'Droid Sans Mono', monospace;
+  font-size: 0.82em;
+}
+
+pre {
+  padding: 1em;
+}
+
+samp {
+  padding: 0.2em 0.4em;
+}
+
+footer {
+  text-align: center;
+}
+
+footer li {
+  display: inline-block;
+  padding: 1em;
+}
+
+footer::before {
+  content: '~';
+  font-size: 12em;
+  line-height: 0.8em;
+  opacity: 0.02;
+  right: 0;
+  display: block;
+}
