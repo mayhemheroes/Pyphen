@@ -8,7 +8,7 @@ html {
 }
 
 body {
-  background: rgba(30, 45, 30, 0.01);
+  background: rgba(30, 45, 30, 0.02);
   margin: auto;
   max-width: 900px;
   padding: 1em 2em;
@@ -39,7 +39,7 @@ a {
 }
 
 pre, samp {
-  background: rgba(30, 45, 30, 0.02);
+  background: rgba(30, 45, 30, 0.03);
   border-radius: 0.3em;
   font-family: 'Droid Sans Mono', monospace;
   font-size: 0.82em;
