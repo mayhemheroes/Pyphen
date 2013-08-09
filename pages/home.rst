@@ -10,6 +10,8 @@ Usage
 .. code-block:: python
 
    >>> import pyphen
+   >>> pyphen.language_fallback('nl_NL_variant1')
+   'nl_NL'
    >>> 'nl_NL' in pyphen.LANGUAGES
    True
    >>> dic = pyphen.Pyphen(lang='nl_NL')
@@ -43,7 +45,7 @@ The dictionaries included in LibreOffice are distributed with Pyphen:
 - Czech
 - Danish
 - Dutch
-- English
+- English (Great-Britain and United-States)
 - Estonian
 - French
 - Galician
@@ -56,7 +58,7 @@ The dictionaries included in LibreOffice are distributed with Pyphen:
 - Norwegian Bokmål
 - Norwegian Nynorsk
 - Polish
-- Portuguese
+- Portuguese (Brazil and Portugal)
 - Romanian
 - Russian
 - Serbian (cyrillic and latin)
