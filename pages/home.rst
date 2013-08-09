@@ -55,8 +55,7 @@ The dictionaries included in LibreOffice are distributed with Pyphen:
 - Italian
 - Lithuanian
 - Latvian
-- Norwegian Bokmål
-- Norwegian Nynorsk
+- Norwegian (Bokmål and Nynorsk)
 - Polish
 - Portuguese (Brazil and Portugal)
 - Romanian
@@ -64,6 +63,7 @@ The dictionaries included in LibreOffice are distributed with Pyphen:
 - Serbian (cyrillic and latin)
 - Slovak
 - Slovenian
+- Spanish
 - Swedish
 - Telugu
 - Ukrainian
