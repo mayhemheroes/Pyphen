@@ -75,6 +75,8 @@ Download
 Pyphen is `available on PyPI <http://pypi.python.org/pypi/Pyphen/>`_. To
 install, just type ``pip install pyphen`` as superuser.
 
+Pyphen is also packaged for Gentoo and Fedora.
+
 If you want the development version, take a look at the :codelink:`git
 repository on GitHub`, or clone it thanks to ``git clone
 git://github.com/Kozea/Pyphen.git``.
