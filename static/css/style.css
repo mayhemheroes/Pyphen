@@ -4,28 +4,29 @@ html {
   background: white;
   color: rgba(30, 45, 30, 0.9);
   font-family: 'EB Garamond', serif;
-  font-size: 14pt;
+  font-size: 18pt;
 }
 
 body {
-  background: rgba(30, 45, 30, 0.02);
   margin: auto;
   max-width: 900px;
   padding: 1em 2em;
 }
 
 h1 {
-  font-size: 6em;
+  font-size: 5em;
   font-weight: 400;
   margin: 0.5em 0 1em 0;
-  text-align: center;
   text-transform: lowercase;
 }
 
-h1::before, h1::after {
+h1::after {
   content: '~';
+  font-size: 2em;
+  line-height: 0.6em;
   opacity: 0.05;
-  padding: 0.25em;
+  padding: 0 0.1em;
+  vertical-align: bottom;
 }
 
 h2 {
