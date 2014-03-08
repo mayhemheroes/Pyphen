@@ -4,6 +4,7 @@ Presentation
 Pyphen is a pure Python module to hyphenate text using included or external
 Hunspell hyphenation dictionaries.
 
+
 Usage
 =====
 
@@ -25,6 +26,7 @@ Usage
    ('Amster', 'dam')
    ('Am', 'sterdam')
 
+
 Features
 ========
 
@@ -32,6 +34,7 @@ Features
 - a lot of included dictionaries
 - caches dict files and hyphenated words
 - supports nonstandard hyphenation patterns
+
 
 Included Dictionaries
 =====================
@@ -69,13 +72,14 @@ The dictionaries included in LibreOffice are distributed with Pyphen:
 - Ukrainian
 - Zulu
 
+
 Download
 ========
 
 Pyphen is `available on PyPI <http://pypi.python.org/pypi/Pyphen/>`_. To
 install, just type ``pip install pyphen`` as superuser.
 
-Pyphen is also packaged for Gentoo and Fedora.
+Pyphen is also packaged for ArchLinux, CentOS, Gentoo, Fedora and Mageia.
 
 If you want the development version, take a look at the :codelink:`git
 repository on GitHub`, or clone it thanks to ``git clone
@@ -90,6 +94,7 @@ Contribute
 
 Features, bugs, hacks, documentation, tests, dictionaries? Fork us on
 :codelink:`GitHub`, or chat with us on IRC (``##kozea`` on Freenode).
+
 
 License
 =======
