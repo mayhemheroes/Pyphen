@@ -49,7 +49,7 @@ The dictionaries included in LibreOffice are distributed with Pyphen:
 - Estonian
 - French
 - Galician
-- German
+- German (Austria, Germany and Switzerland)
 - Greek
 - Hungarian
 - Italian
