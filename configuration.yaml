@@ -3,6 +3,13 @@ description: Hyphenation in pure Python
 license: LGPL / GPL / MPL
 public: true
 url: http://www.pyphen.org/
+pystil: https://kozea.pystil.org/pystil.js
+
+footer:
+  - A Kozea Project:
+      link: http://community.kozea.fr/
+  - Optimized for Standards:
+      link: http://validator.w3.org/check?uri=referer
 
 project (git):
   url: git://github.com/Kozea/Pyphen.git
@@ -14,6 +21,7 @@ vcs (git):
 
 code browser (github):
   project name: Kozea/Pyphen
+  ribbon: Fork me on GitHub
 
 bug tracker (github):
   project name: Kozea/Pyphen
