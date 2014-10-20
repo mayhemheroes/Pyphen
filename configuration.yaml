@@ -15,10 +15,6 @@ project (git):
   url: git://github.com/Kozea/Pyphen.git
   path: pyphen
 
-vcs (git):
-  url: git://github.com/Kozea/Pyphen.git
-  path: /var/db/git/pyphen.git
-
 code browser (github):
   project name: Kozea/Pyphen
   ribbon: Fork me on GitHub
