@@ -55,6 +55,7 @@ The dictionaries included in LibreOffice are distributed with Pyphen:
 - German (Austria, Germany and Switzerland)
 - Greek
 - Hungarian
+- Icelandic
 - Italian
 - Lithuanian
 - Latvian
