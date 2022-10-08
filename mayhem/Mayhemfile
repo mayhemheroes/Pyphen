@@ -1,0 +1,6 @@
+project: pyphen
+target: dict-fuzz
+
+cmds:
+  - cmd: /src/mayhem/fuzz_dict.py
+    libfuzzer: true
